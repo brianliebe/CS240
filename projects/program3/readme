@@ -1,0 +1,39 @@
+CS240 Data Structures and Algorithms
+Spring 2017
+Program3 README FILE
+
+Due Date: May 10th, 2017
+Submission Date: May 6th, 2017
+Author: Brian Liebe
+
+PERCENT COMPLETE: 
+	100%
+
+PARTS THAT ARE NOT COMPLETE: 
+	None
+
+BUGS: 
+	None
+
+FILES:
+	program3.cpp
+	Map.cpp
+	Map.h
+	City.cpp
+	City.h
+	makefile
+	readme
+TO RUN:
+	make - this will compile and build
+	make run - this will compile, build, and run
+	make checkmem - this will compile, build, run, and check valgrind for leaks
+	make clean - this will remove all binarys and executables
+
+EXTRA CREDIT: 
+	No options for extra credit
+
+BIBLIOGRAPHY: 
+	N/A
+
+MISCELLANEOUS:
+	N/A

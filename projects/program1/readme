@@ -1,0 +1,44 @@
+CS240 Data Structures and Algorithms
+Spring 2017
+Program1 README FILE
+
+Due Date: February 22nd, 2017
+Submission Date: February 22nd, 2017
+Author: Brian Liebe
+
+PERCENT COMPLETE: 
+	100%
+
+PARTS THAT ARE NOT COMPLETE: 
+	None
+
+BUGS: 
+	None
+
+FILES:
+	AntHill.cpp
+	AntHill.h
+	Ant.cpp
+	Ant.h
+	LinkedList.cpp
+	LinkedList.h
+	program1.cpp
+	anthill.log
+	makefile
+	readme
+
+TO RUN:
+	make - this will compile and build
+	make run - this will compile, build, and run
+	make checkmem - this will compile, build, run, and check valgrind for leaks
+	make clean - this will remove all binarys and executables
+	make print - this will compile, build, run, and print the anthill.log file
+
+EXTRA CREDIT: 
+	No options for extra credit
+
+BIBLIOGRAPHY: 
+	N/A
+
+MISCELLANEOUS:
+	N/A

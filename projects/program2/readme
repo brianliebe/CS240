@@ -1,0 +1,42 @@
+CS240 Data Structures and Algorithms
+Spring 2017
+Program2 README FILE
+
+Due Date: April 20th, 2017
+Submission Date: April 10th, 2017
+Author: Brian Liebe
+
+PERCENT COMPLETE: 
+	100%
+
+PARTS THAT ARE NOT COMPLETE: 
+	None
+
+BUGS: 
+	None
+
+FILES:
+	Card.cpp/.h
+	Deck.cpp/.h
+	Heap.cpp/.h
+	Player.cpp/.h
+	Table.cpp/.h
+	program2.cpp
+	players.txt
+	players2.txt
+	makefile
+	readme
+TO RUN:
+	make - this will compile and build
+	make run - this will compile, build, and run
+	make checkmem - this will compile, build, run, and check valgrind for leaks
+	make clean - this will remove all binarys and executables
+
+EXTRA CREDIT: 
+	No options for extra credit
+
+BIBLIOGRAPHY: 
+	N/A
+
+MISCELLANEOUS:
+	N/A
