@@ -1,2 +1,2 @@
 # CS240
-Projects &amp; Assignments for Data Structures &amp; Algorithms
+Data Structures and Algorithms
